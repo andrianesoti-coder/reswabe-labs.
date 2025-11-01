@@ -2,4 +2,4 @@
 Αυτό το αποθετήριο περιλαμβάνει όλες τα αρχεία που δημιουργήθηκαν στο 
 πλαίσιο των εργαστηριακών ασκήσεων του μαθήματος 
 ## Σύνδεσμος Pages 
-https://andrianesoti-coder.github.io/resweb-labs/
+https://andrianesoti-coder.github.io/reswabe-labs./
